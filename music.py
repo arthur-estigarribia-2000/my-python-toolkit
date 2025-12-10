@@ -1,5 +1,3 @@
-# File in construction, this script may have problems and bugs
-
 # Python musical keyboard simulator
 
 keyboard_octave = ("C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B")
